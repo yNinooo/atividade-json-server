@@ -1,0 +1,25 @@
+{
+  "serie": [
+    {
+      "id": "1",
+      "nomeSerie": "Friends",
+      "NumTemporadas": "12",
+      "AnoLancamento": "2001",
+      "estudio": "Wanner"
+    },
+    {
+      "id": "2",
+      "nomeSerie": "How I Met Your Mother",
+      "NumTemporadas": "9",
+      "AnoLancamento": "2001",
+      "estudio": "Wanner"
+    },
+    {
+      "id": "3",
+      "nomeSerie": "Everybody Hates Crhis",
+      "NumTemporadas": "9",
+      "AnoLancamento": "2007",
+      "estudio": "BBC"
+    }
+  ]
+}
